@@ -18,4 +18,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ferneediaz&show_icons=true&theme=tokyonight" alt="ferneediaz GitHub stats" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferneediaz&layout=compact&theme=tokyonight" alt="ferneediaz top languages" />
+</p>
+
+
 
