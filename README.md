@@ -3,8 +3,6 @@
 
 🌱 I’m currently learning **NestJS**
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anferneediaz/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/anferneediaz/" target="blank">
