@@ -2,6 +2,8 @@
 <h3 align="left">A passionate software developer from Taiwan</h3>
 
 🌱 I’m currently learning **NestJS**
+💻 I am currently a software developer at 3 peaks tech
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
