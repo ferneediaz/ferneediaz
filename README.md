@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dan Anfernee</h1>
 <h3 align="left">A passionate software developer from Taiwan</h3>
 
-🌱 I’m currently learning **NestJS**
+🌱 I’m currently learning **Flutter**
 
 💻 I am currently a software developer at 3 peaks tech
 
