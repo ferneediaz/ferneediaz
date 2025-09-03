@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **Flutter**
 
-💻 I am currently a software developer at 3 peaks tech
+💻 I am currently a software engineer at Everbliss Green 
 
 
 <h3 align="left">Connect with me:</h3>
