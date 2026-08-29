@@ -56,7 +56,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SEGGER_J--Link-8B1A1A?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logic_Analyzer-2E4A62?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Oscilloscope-3B7A57?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/VNA-6A4C93?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Spectrum_Analyzer-8E44AD?style=for-the-badge&logoColor=white" />
