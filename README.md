@@ -62,7 +62,4 @@
   <img src="https://img.shields.io/badge/Spectrum_Analyzer-8E44AD?style=for-the-badge&logoColor=white" />
 </p>
 
-<h3 align="left">GitHub:</h3>
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferneediaz&theme=github_dark" alt="Most commits by language" />
-</p>
+
