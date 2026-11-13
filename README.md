@@ -1,11 +1,9 @@
 <h1 align="left">Hi 👋, I'm Dan Anfernee</h1>
 <h3 align="left">Firmware engineer building drones for defense · based in Taiwan</h3>
 
-🛩️ I'm currently a **firmware engineer at Bestec**, working on UAVs for defense applications
+🛩️ I'm currently a **software/firmware engineer at Bestec**, working on UAVs for defense applications
 
 🧭 Interested in **GNSS-denied navigation**, resilient comms, and flight-control firmware we own end to end
-
-📦 Working on **software supply-chain transparency (SBOM)** for drone systems
 
 🏁 Built a GNSS-denied navigation drone at the **European Defense Tech Hub (EDTH) hackathon** in Taipei
 
